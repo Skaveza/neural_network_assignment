@@ -59,4 +59,5 @@ Saved the trained model in .keras format.
 Reloaded the model to demonstrate functionality.
 
 
+<img width="926" alt="image" src="https://github.com/user-attachments/assets/b85bfe59-3045-4148-8555-08752e90ef04" />
 
